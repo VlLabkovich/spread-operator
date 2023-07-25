@@ -1,1 +1,1 @@
-# spred-operator
+# spread-operator
